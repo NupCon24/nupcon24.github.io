@@ -1,2 +1,2 @@
 # NupCon'24
-Nuptial Contract Signing/Convention 2024
+Website for the Nuptial Contract Signing/Convention 2024
